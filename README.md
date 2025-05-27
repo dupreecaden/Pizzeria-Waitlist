@@ -24,5 +24,12 @@ This desktop application helps pizzeria staff manage and track reservations by c
 1. Install dependencies:
    ```bash
    pip install pillow python-dotenv
+2. Create an .env file to store your chosen admin username and password.
+ADMIN_USERNAME=your_username_here
+
+   ADMIN_PASSWORD=your_password_here
+
+
+
 
 
